@@ -1,0 +1,107 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# =========================
+# Virtual Environments
+# =========================
+
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Environment Variables
+# =========================
+
+.env
+.env.*
+*.env
+
+# =========================
+# IDEs
+# =========================
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# =========================
+# OS Files
+# =========================
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# Audio / Dataset (important for your project)
+# =========================
+
+dataset/
+recordings/
+*.wav
+*.mp3
+
+# =========================
+# Model Files (ML)
+# =========================
+
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# =========================
+# Temporary Files
+# =========================
+
+tmp/
+temp/
